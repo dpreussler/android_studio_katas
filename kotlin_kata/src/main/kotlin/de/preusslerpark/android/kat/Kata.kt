@@ -1,7 +1,7 @@
 package de.preusslerpark.android.kat
 
 
-class KotlinClass {
+class Kata {
 
     fun runMe() {
     }

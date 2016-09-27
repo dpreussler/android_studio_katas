@@ -3,7 +3,7 @@ package de.preusslerpark.android.kata
 import org.junit.Test
 import kotlin.test.fail
 
-class KotlinTest {
+class KotlinKataTest {
 
     @Test
     fun test() {
