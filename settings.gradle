@@ -1,0 +1,2 @@
+include ':java_kata'
+include ':kotlin_kata'
