@@ -8,6 +8,7 @@ public class KataTest {
 
     @Test
     public void test() {
+
         fail("add me ");
     }
 
